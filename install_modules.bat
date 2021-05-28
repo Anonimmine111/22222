@@ -1,0 +1,9 @@
+pip install mnemonic
+pip install bip32utils
+pip install requests
+pip install colored
+pip install notify-py
+pip install pysocks
+pip install pycrypto
+pip install pycryptodome
+pip install pycryptodomex
